@@ -22,7 +22,11 @@ Arquvio B | Versão 1 | Versão 2
 Linux (apt-get): sudo apt-get install git
 Mac (brow): brow install git
 
-## Criar conta no GitHub
+## Codigos Git
+
+git status: Mostra status do projetos.
+git commit -m "messagem": realizar commit.
+git add *: adicionar todos os arquivos ao repositorio
 
 
 
