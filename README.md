@@ -24,9 +24,10 @@ Mac (brow): brow install git
 
 ## Criar conta no GitHub
 
+
+
 ## Clona o projeto
-
-
+git clone https://github.com/Celost2004/course-frontend.git
 
 ## Comits
 Informar sobre cada alteração
