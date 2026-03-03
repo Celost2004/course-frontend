@@ -121,3 +121,9 @@
     display: flex;
     align-content: center;
 }
+
+.nav-link-social-media{
+    width: 24px;
+    margin: 0 5px;
+    display: block;
+}
