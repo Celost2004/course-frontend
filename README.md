@@ -24,10 +24,10 @@ Mac (brow): brow install git
 
 ## Codigos Git
 
-git status: Mostra status do projetos.
-git commit -m "messagem": realizar commit.
-git add *: adicionar todos os arquivos ao repositorio
-git push: enviar atualizações para o repositorio
+    - git status: Mostra status do projetos.
+    - git commit -m "messagem": realizar commit.
+    - git add *: adicionar todos os arquivos ao repositorio
+    - git push: enviar atualizações para o repositorio
 
 
 
