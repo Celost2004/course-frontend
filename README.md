@@ -27,6 +27,7 @@ Mac (brow): brow install git
 git status: Mostra status do projetos.
 git commit -m "messagem": realizar commit.
 git add *: adicionar todos os arquivos ao repositorio
+git push: enviar atualizações para o repositorio
 
 
 
