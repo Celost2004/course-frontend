@@ -52,6 +52,11 @@ São ramficações / Ver~sões paralelas
 
 - main / master
 - develop
-
-
 - versionamento 1.0.0
+
+git checkout -b dev (Cria uma branch)
+git checkout dev (Muda de branch)
+
+
+## Merge
+Mescla do branchs
