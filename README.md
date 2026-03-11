@@ -43,3 +43,15 @@ Informar sobre cada alteração
 
 ## GitFlow
 Fluxo do Git
+
+
+### Branchs
+
+
+São ramficações / Ver~sões paralelas
+
+- main / master
+- develop
+
+
+- versionamento 1.0.0
