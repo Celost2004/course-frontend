@@ -28,7 +28,7 @@ Mac (brow): brow install git
     - git commit -m "messagem": realizar commit.
     - git add *: adicionar todos os arquivos ao repositorio
     - git push: enviar atualizações para o repositorio
-    - git pull: puxar atualizações do repositorios
+    - git pull: puxar atualizações do repositoriosgi
 
 
 
