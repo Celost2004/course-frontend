@@ -56,6 +56,7 @@ São ramficações / Ver~sões paralelas
 
 git checkout -b dev (Cria uma branch)
 git checkout dev (Muda de branch)
+git merge "branch" (Mesclar branch)
 
 
 ## Merge
