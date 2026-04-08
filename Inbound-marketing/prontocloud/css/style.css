@@ -167,3 +167,24 @@ footer small
     font-size: 80%;
     display: block;
 }
+
+
+#tenho-interesse
+{
+    padding:20px;
+}
+
+.cognite
+{
+    padding: 0px;
+}
+
+
+form{
+    margin: 20px !important;
+}
+
+.cog-branding, .cog-abuse
+{
+    display: none !important;
+}
