@@ -18,7 +18,7 @@ body
 .main-container
 {
     background-color: #fff;
-    width: 100vw;
+    width: 100%;
     display: block;
     float:left;
 
@@ -28,6 +28,7 @@ body
 {
     display: block;
     padding: 20px;
+    box-sizing: border-box;
     width: 100%;
     
 }
@@ -80,6 +81,12 @@ p
     color: #282828;
 }
 
+img
+{
+    max-width: 100%;
+    height: auto;
+}
+
 ol
 {
     margin-left: 10px;
@@ -97,6 +104,7 @@ section
 
 
     font-size: 1.5rem; /* equivalente a 15px */
+    float: left;
 }
 
 section nav
@@ -169,10 +177,15 @@ footer small
 }
 
 
-#tenho-interesse
+#tenho-interesse, #tenho-interesse article
 {
-    padding:20px;
+    background-color: #a1bad6 !important;
+
+    width: 100%;
+    color: #fff;
 }
+
+
 
 .cognite
 {
@@ -182,9 +195,27 @@ footer small
 
 form{
     margin: 20px !important;
+    background-color: #a1bad6 !important;
+
+}
+
+.cog-form__container
+{
+    background-color: #a1bad6 !important;
 }
 
 .cog-branding, .cog-abuse
 {
     display: none !important;
+}
+
+.cog-row
+{
+    display: block !important;
+    color: #254195 in !important;
+}
+
+label
+{
+    color: #254159  !important;
 }
