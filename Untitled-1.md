@@ -33,3 +33,9 @@
 - Crair formularios para captação de e-mails.
 - Posts para redes sociais.
 - Incluir hospedagem.
+
+### URL
+
+Uniform Resource locator
+
+- URL Amigavel: humanos e mecanismo de busca
